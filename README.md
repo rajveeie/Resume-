@@ -1,2 +1,2 @@
 # Resume-
-Resume created by basic html and css
+This is my first project that created by basic html and css
